@@ -36,29 +36,29 @@ const Footer = () => {
         <br />
         <div className="socialIcons">
           <span className="icon">
-            <a href="https://github.com/LB540">
+            <a href="github.com/Jayantjc">
               <FaGithub />
             </a>
           </span>
           <span className="icon">
-            <a href="https://www.instagram.com/lalitbsht_/">
+            <a href="https://www.instagram.com/">
               <FaInstagram />
             </a>
           </span>
           <span className="icon">
-            <a href="https://twitter.com/lalitbsht_">
+            <a href="https://twitter.com/">
               <FaTwitter />
             </a>
           </span>
           <span className="icon">
-            <a href="https://www.linkedin.com/in/lalit-bisht-7097a41b5/">
+            <a href="https://www.linkedin.com/in/">
               <FaLinkedin />
             </a>
           </span>
         </div>
         <br />
       </ContentWrapper>
-      <h4>Copyright © Lalit. Made with 💕 by Lalit Bisht</h4>
+      <h4>Copyright © Jayant Chugh</h4>
     </footer>
   );
 };
